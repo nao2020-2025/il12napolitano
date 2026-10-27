@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "muzzarella",
+        "precio": 26900,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza_muzza.webp",
+        "descripcion": "abundante muzarella"
+    },
+    {
+        "nombre": "fugazeta",
+        "precio": 25500,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza_fugaza.bmp",
+        "descripcion": "con cebolla"
+    },
+    {
+        "nombre": "calabreza",
+        "precio": 33500,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza_calabreza.jpg",
+        "descripcion": "con bastante calabreza"
+    },
+    {
+        "nombre": "provolone",
+        "precio": 29900,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza_provolone.jpg",
+        "descripcion": "pizza especial de vegetales asados"
+    },
+    {
+        "nombre": "chanpiñion",
+        "precio": 29500,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza-champiñon.jpg",
+        "descripcion": "champiñiones cosechadas del campo"
+    },
+    {
+        "nombre": "hawaiana",
+        "precio": 28500,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza-hawahiana.webp",
+        "descripcion": "piñas del caribe"
+    },
+    {
+        "nombre": "roquefort",
+        "precio": 45000,
+        "fecha": "22/09/26",
+        "imagen": "images/pizza-roquefort.webp",
+        "descripcion": "especial de roquefort con peras al vino "
+    },
+    {
+        "nombre": "pizza san martin",
+        "precio": 20500,
+        "fecha": "22/10/26",
+        "imagen": "images/pizza-roquefort.webp",
+        "descripcion": "pizza murella con aseitunas y morones asados "
+    }
+]
+
