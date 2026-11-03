@@ -10,28 +10,28 @@
         "nombre": "fugazeta",
         "precio": 25500,
         "fecha": "22/09/26",
-        "imagen": "images/pizza_fugaza.bmp",
+        "imagen": "images/pizza_fugaza.webp",
         "descripcion": "con cebolla"
     },
     {
         "nombre": "calabreza",
         "precio": 33500,
         "fecha": "22/09/26",
-        "imagen": "images/pizza_calabreza.jpg",
+        "imagen": "images/pizza_calabreza.webp",
         "descripcion": "con bastante calabreza"
     },
     {
         "nombre": "provolone",
         "precio": 29900,
         "fecha": "22/09/26",
-        "imagen": "images/pizza_provolone.jpg",
+        "imagen": "images/pizza_provolone.webp",
         "descripcion": "pizza especial de vegetales asados"
     },
     {
         "nombre": "chanpiñion",
         "precio": 29500,
         "fecha": "22/09/26",
-        "imagen": "images/pizza-champiñon.jpg",
+        "imagen": "images/pizza-champiñon.webp",
         "descripcion": "champiñiones cosechadas del campo"
     },
     {
