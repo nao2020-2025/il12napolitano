@@ -239,7 +239,7 @@ main h2 {
 }
 
 .swal2-title{
-  font-famiily: "Oswald", sans-serif;
+  font-family: "Oswald", sans-serif;
   color: #e50c39;
 }
 
@@ -257,6 +257,24 @@ main h2 {
         bottom: 1rem;
         right: 1rem;
     }
+}
+
+.search{
+
+  text-align:center;
+  margin: 20px 0px;
+
+
+}
+
+#input-search{
+   padding: 10px 15px;
+   width: 300px;
+   max-width: 90%; 
+   border: 2px solid #e1e8ee; 
+   border-radius: 20px; 
+   font-size: 1rem;
+   outline: none;
 }
 
 /* tablet (≤ 1024px): 2 columnas */
